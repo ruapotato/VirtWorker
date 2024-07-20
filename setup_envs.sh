@@ -56,6 +56,12 @@ source voice_service_env/bin/activate
 # Upgrade pip
 pip install --upgrade pip
 
+# Uninstall potentially problematic packages
+pip uninstall -y numpy scipy librosa
+
+# Install latest stable versions of NumPy, SciPy, and librosa
+pip install numpy scipy librosa
+
 # Install PyTorch and other dependencies
 if check_cuda; then
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu${CUDA_VERSION_TAG}
@@ -63,8 +69,8 @@ else
     pip install torch torchvision torchaudio
 fi
 
-# Upgrade numpy and related packages
-pip install --upgrade numpy scipy pandas scikit-learn BeautifulSoup4 feedparser dtw pyzmq
+# Install other dependencies
+pip install pandas scikit-learn BeautifulSoup4 feedparser dtw pyzmq
 
 # Clone and install OpenVoice
 git clone https://github.com/myshell-ai/OpenVoice.git voice_service/openvoice
@@ -81,6 +87,9 @@ mkdir -p voice_service/checkpoints_v2
 wget https://myshell-public-repo-host.s3.amazonaws.com/openvoice/checkpoints_v2_0417.zip
 unzip checkpoints_v2_0417.zip -d voice_service/checkpoints_v2
 rm checkpoints_v2_0417.zip
+
+# Bug fix. 
+pip install numpy==1.24.3 scipy==1.10.1 librosa==0.10.0
 
 deactivate
 
