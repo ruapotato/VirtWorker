@@ -37,8 +37,6 @@ VirtWorker serves as the spiritual successor to VirtWorkForce, evolving the conc
    ```
    Note: This script will take a considerable amount of time to download and set up all necessary files and environments.
 
-3. Ensure Ollama is installed and running on your system. Visit [Ollama's official website](https://ollama.ai) for installation instructions.
-
 ## Usage
 
 To use VirtWorker, you'll need to write your workflow in the `main.py` file. Here's a basic example:
@@ -63,8 +61,7 @@ print("Joke:", joke)
 
 To run your workflow:
 
-1. Ensure Ollama is running with the required models (e.g., gemma2:latest).
-2. Execute the script: `./run.sh`
+1. Execute the script: `./run.sh`
 
 ## Contributing
 

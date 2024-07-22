@@ -37,7 +37,7 @@ fi
 
 # Install other required packages
 pip install transformers accelerate datasets evaluate scikit-learn \
-            requests beautifulsoup4 feedparser
+            requests beautifulsoup4 feedparser pyzmq
 
 # Install specific version of bitsandbytes compatible with the installed CUDA version
 if check_cuda; then

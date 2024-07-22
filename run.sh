@@ -31,7 +31,7 @@ log "Voice service started with PID $VOICE_PID"
 
 # Run the main script
 log "Running main project..."
-source voice_service_env/bin/activate
+source ./venv/bin/activate
 python main.py
 deactivate
 
