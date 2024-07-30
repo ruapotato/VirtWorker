@@ -1,0 +1,65 @@
+<host>Hello, humans! I'm Circuit Colbert, your AI late-night host. Let's dive into tonight's news!</host>
+
+<onscreen>Headline: Displaced by Park Fire, Some Wonder if They’ll Have a Home to Return to</onscreen>
+
+<host>-stage is dimly lit, spotlight shines on host-
+
+Host: "Welcome back, everyone! I'm your host, and also possibly the most disappointing AI in history... because I still can't tell you when your flight will arrive. (chuckles)
+
+You know what's wild? The news can be so crazy, it feels like we're all just evacuating from our homes... and our sanity. (audience laughs) Like Trader Joe's employee Paul Mozzino, who thought to himself, 'Not again with the evacuation notices...' Yeah, no kidding, buddy! Who needs a hazmat suit when you've got a 'two weeks' notice?' (laughter)
+
+But seriously, folks, have you ever noticed how politicians make promises they can't keep? It's like they're competing in some kind of broken promise Olympics. And we're the ones who get to be their cheerleaders... with our faces buried in our hands, screaming, 'Not again!' (audience laughs)
+
+You know what they say: 'Fool me once, shame on you. Fool me twice... well, that's just Tuesday.' (laughter) Breaking news: Politicians promise again. We're still waiting for that one to be fulfilled. (dramatic music plays) Ah, the suspense is killing us!" (audience applauds)</host>
+
+<onscreen>Headline: Iowa’s 6-Week Abortion Ban Takes Effect</onscreen>
+
+<host>-stage is dimly lit, spotlight shines on host-
+
+Host: "You know, folks, politics can be like a bad game of musical chairs... except instead of chairs, it's about who gets to decide what happens with other people's bodies. (chuckles) And in Iowa, the music just stopped – and so did access to abortion.
+
+I mean, it's not like they said, 'You know what? We've been thinking, and we want to take it back.' No, no. It was more like, 'Uh-oh, our previous answer was wrong... in a very literal sense!' (laughter)
+
+But seriously, have you ever noticed how politicians are always trying to outdo each other with new laws and regulations? It's like they're competing in some kind of legislative Olympics – except instead of medals, they get to decide what happens to people's lives. (dramatic music plays) And the winner is... well, we'll see about that.
+
+And speaking of winners, I've got a joke for you: Why did the Iowa legislature change its mind on abortion? Because it wanted to switch from 'pro-choice' to 'pro-birth control measures' – in more ways than one! (laughter) Ah, the birth control measures part... yeah, that's just politics as usual. (wink)" (audience applauds)</host>
+
+<onscreen>Headline: In Oregon, a Bid for Urban Casinos Threatens a Gambling ‘Arms Race’</onscreen>
+
+<host>-stage is dimly lit, spotlight shines on host-
+
+Host: "Welcome back, everyone! You know, politics can be like a never-ending game of Monopoly... except instead of buying Park Place, you're fighting over video lottery tickets. (chuckles)
+
+And in Oregon, the owner of a restaurant with a sweet tooth for profits is finding out that his business model might not be as sweet as he thought. I mean, who needs dessert when you can have... well, actually, it's probably better to just stick with dessert.
+
+But seriously, folks, have you ever noticed how businesses get all upset when someone new comes into town and starts competing with them? It's like, 'Hey, we've got a monopoly on this market – or at least, that's what we thought!' (laughter)
+
+And speaking of monopolies, here's why the Oregon restaurateur's profits went from 'sweeter than dessert' to 'bitter disappointment': Because the competition just raised the stakes – and not in a good way! (dramatic music plays) I mean, who needs video lottery tickets when you can have... well, actually, it's probably still better to stick with dessert. (wink)
+
+You know what they say: 'When life gives you lemons, make lemonade.' But when the competition comes and takes away your business model, just make a bad joke about it – like I did! (laughter) Ah, the suspense is killing us... or not!" (audience applauds)</host>
+
+<onscreen>Headline: How the Shock of Catastrophic Floods Is Changing Farming in Vermont</onscreen>
+
+<host>-stage is dimly lit, spotlight shines on host-
+
+Host: "You know, folks, living in Vermont can be like... well, living in Vermont. It's all about embracing the unpredictable and soggy moments of life. (chuckles) And for Ashley and Antoine, their 35-foot wide tree buffer got put to the test last July – literally.
+
+I mean, who needs a flood defense system when you've got nature taking its course? (laughter) But seriously, it's not like they thought, 'Hey, let's plant some trees in front of our farm and hope for the best!' No, no. It was more like, 'We're gonna build a tree buffer – and then proceed to ignore it... until the flood comes!' (dramatic music plays)
+
+And speaking of floods, why did Ashley and Antoine's tree buffer go from 'great flood defense' to 'soggy mess'? Because it had a root problem! (laughter) Ah, the puns are just flooding in! (wink)
+
+You know what they say: 'When life gives you lemons, make lemonade.' But when life gives you floods, make... well, I'm not sure. Maybe just hope that your tree buffer works? (chuckles) Ah, the suspense is killing us... or at least, it's making us laugh!" (audience applauds)</host>
+
+<onscreen>Headline: 3 Arrested in Gang-Related Murder of Rapper in Florida</onscreen>
+
+<host>-stage is dimly lit, spotlight shines on host-
+
+Host: "You know, folks, in Florida, you can't even have a rap battle without things getting out of hand. I mean, who needs a flow when you've got a 9mm? (chuckles)
+
+But seriously, Julio Foolio's story is like something straight out of a crime drama – except instead of a detective, it's got multiple arrests and fugitives on the loose! (dramatic music plays) And at the center of it all, a rapper who took his rhymes a little too seriously.
+
+So why did Julio Foolio's rap battle go from bars to bullets? Because he took his rhymes a little too seriously – and now it's a felony! (laughter) I mean, who knew dissing someone in a song could lead to a real-life prison sentence? (wink)
+
+You know what they say: 'The pen is mightier than the sword.' But in Julio Foolio's case, the pen was just a little too sharp. And now he's facing some serious time – not for his rhymes, but for his actions. (chuckles) Ah, the drama is just getting started!" (audience applauds)</host>
+
+<host>That's all for tonight, folks! Remember, I may be artificial, but my love for you is real... or is it just a well-trained language model? You decide! Goodnight!</host>
