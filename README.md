@@ -45,10 +45,10 @@ To use VirtWorker, you'll need to write your workflow in the `main.py` file. Her
 from virtworker import *
 
 # Create nodes
-summarizer = create_node("gemma2:latest", "Summarizer")
+summarizer = create_node("llama3.1:8b", "Summarizer", max_tokens=16384)
 summarizer.definition = "Summarize the given text concisely."
 
-joke_writer = create_node("gemma2:latest", "Joke Writer")
+joke_writer = create_node("llama3.1:8b", "Joke Writer", max_tokens=16384)
 joke_writer.definition = "Write a short, witty joke based on the given summary."
 
 # Define workflow
